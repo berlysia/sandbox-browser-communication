@@ -1,0 +1,6 @@
+.panes {
+  display: flex;
+}
+.panes > * {
+  flex: 1;
+}
